@@ -19,7 +19,7 @@ Refer to the documentation:
 
 ## Assets
 The following image demonstrates the web application's appearance and functionality:
-![Four numbered, differently colored boxes appear evenly spaced inside a larger box.](./assets/MockUp.png)
+![Four numbered, differently colored boxes appear evenly spaced inside a larger box.](./assets/images/MockUp.png)
 
 ---
 
