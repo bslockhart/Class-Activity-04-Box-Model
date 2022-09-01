@@ -21,8 +21,6 @@ Refer to the documentation:
 The following image demonstrates the web application's appearance and functionality:
 ![Four numbered, differently colored boxes appear evenly spaced inside a larger box.](./assets/images/MockUp.png)
 
----
-
 ## 💡 Hints
 1. How can we use the `margin` property to define the space between elements?
 * This property can be used to set a margin on all four sides of an element. Margins create extra space around an element, unlike padding, which creates extra space within an element.
@@ -34,4 +32,6 @@ The following image demonstrates the web application's appearance and functional
 
 Use [Google](https://www.google.com) or another search engine to research this.
 
+## Submission
+[CSS Box Model Properties to Design Layout](https://bslockhart.github.io/Class-Activity-4-Box-Model/)
 ---
